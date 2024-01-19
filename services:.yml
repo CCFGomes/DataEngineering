@@ -22,6 +22,8 @@ docker run -it \
   -p 5433:5433 \
   postgres:13
 
+
+  https://github.com/DataTalksClub/nyc-tlc-data/releases/download/yellow/yellow_tripdata_2019-01.csv.gz
   https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
   https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
